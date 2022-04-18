@@ -1,0 +1,19 @@
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.exe
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.deps.json
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.runtimeconfig.json
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.runtimeconfig.dev.json
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.dll
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\bin\Debug\netcoreapp3.1\Tutorial Blend Animation.pdb
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.csprojAssemblyReference.cache
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation_MarkupCompile.cache
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation_MarkupCompile.lref
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.g.resources
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.AssemblyInfoInputs.cache
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.AssemblyInfo.cs
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.csproj.CoreCompileInputs.cache
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.dll
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.pdb
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Tutorial Blend Animation\Tutorial Blend Animation\obj\Debug\netcoreapp3.1\Tutorial Blend Animation.genruntimeconfig.cache
